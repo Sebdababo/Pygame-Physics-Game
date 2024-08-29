@@ -43,6 +43,9 @@ In Bouncy Ball, you control a ball that bounces around the screen, collecting po
    - Collect green power-ups to become invincible for a short period.
    - The game keeps running until you close the window.
 
+### Example Gameplay
+![Physics Game 1 output](https://github.com/user-attachments/assets/38e70683-2e45-4fb9-a558-62b58dba7b56)
+
 ## Game 2: Enhanced Chaos Pendulum Simulation
 
 In this simulation, you can create and manipulate a chaos pendulum. The pendulum consists of joints connected by lines, and you can control gravity, damping, and colors.
@@ -89,3 +92,7 @@ In this simulation, you can create and manipulate a chaos pendulum. The pendulum
    - Press C to change the color of the pendulum trail.
    - Use the arrow keys to adjust gravity and damping.
    - Press R to reset the simulation.
+
+### Example Simulation
+![Physics Game 2 output](https://github.com/user-attachments/assets/00dc9260-0622-4867-aaa3-77c406fadd74)
+
