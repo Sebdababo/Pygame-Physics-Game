@@ -26,7 +26,7 @@ In Bouncy Ball, you control a ball that bounces around the screen, collecting po
    - Ensure you have Python and Pygame installed.
    - Run the following command to install Pygame if you don't have it already:
      ```bash
-     pip install pygame
+     pip install -r requirements.txt
      ```
 
 2. **Running the Game**
